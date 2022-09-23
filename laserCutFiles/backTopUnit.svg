@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76.26458mm"
+   height="69.931252mm"
+   viewBox="0 0 76.26458 69.931252"
+   version="1.1"
+   id="svg375"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="backTopUnit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview377"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="312.71156"
+     inkscape:cy="195.86685"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs372">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path381" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path384" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path386" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path388" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.268431,-96.915237)">
+    <g
+       inkscape:label="0"
+       id="g409"
+       transform="matrix(0.26458333,0,0,0.26458333,89.471499,-263.28581)"
+       style="stroke:#ff0000">
+      <path
+         d="m -230.81868,1465.1969 h -11.33859 v 45.3543 h 11.33859 z"
+         style="fill:none;stroke:#ff0000"
+         id="path395" />
+      <path
+         d="m 11.071079,1465.1969 v 45.3543 h 11.338583 v -45.3543 z"
+         style="fill:none;stroke:#ff0000"
+         id="path397" />
+      <path
+         d="m -227.03916,1587.4016 a 9.448819,9.448819 0 1 0 -18.89763,0 9.448819,9.448819 0 1 0 18.89763,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path399" />
+      <path
+         d="m 26.189189,1587.4016 a 9.448819,9.448819 0 1 0 -18.897638,0 9.448819,9.448819 0 1 0 18.897638,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path401" />
+      <path
+         d="m -227.03916,1380.7874 a 9.448819,9.448819 0 1 0 -18.89763,0 9.448819,9.448819 0 1 0 18.89763,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path403" />
+      <path
+         d="m 26.189189,1380.7874 a 9.448819,9.448819 0 1 0 -18.897638,0 9.448819,9.448819 0 1 0 18.897638,0 z"
+         style="fill:none;stroke:#ff0000"
+         id="path405" />
+      <path
+         d="m 14.850606,1361.8898 a 18.897638,18.897638 0 0 1 18.897638,18.8976 v 233.0709 H -98.267718 v 11.3386 h -22.677162 v -11.3386 h -132.55097 v -233.0709 a 18.897638,18.897638 0 0 1 18.89764,-18.8976 z"
+         style="fill:none;stroke:#ff0000"
+         id="path407" />
+    </g>
+  </g>
+</svg>
